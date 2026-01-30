@@ -2,6 +2,8 @@
 
 #![allow(dead_code)]
 
+pub mod signing;
+
 use std::collections::HashMap;
 use uuid::Uuid;
 
