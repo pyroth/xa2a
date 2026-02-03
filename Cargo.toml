@@ -7,7 +7,7 @@ resolver = "3"
 version = "0.4.0"
 edition = "2024"
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/pyroth/ra2a"
+repository = "https://github.com/qntx/ra2a"
 
 [workspace.dependencies]
 async-stream = "0.3"
